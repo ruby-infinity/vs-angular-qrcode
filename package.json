@@ -1,0 +1,41 @@
+{
+  "name": "angular-qrcode",
+  "description": "generate dynamic qr code with image",
+  "version": "0.1.0",
+  "homepage": "https://github.com/vs-zhang/angular-qrcode.git",
+  "author": {
+    "name": "vs-zhang",
+    "email": "vincentzhang1209@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vs-zhang/angular-qrcode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vs-zhang/angular-qrcode.git/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/vs-zhang/angular-qrcode.git/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
