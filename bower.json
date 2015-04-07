@@ -1,0 +1,23 @@
+{
+  "name": "angular-qrcode",
+  "version": "0.1.0",
+  "homepage": "https://github.com/vs-zhang/angular-qrcode",
+  "authors": [
+    "vs-zhang <vincentzhang1209@gmail.com>"
+  ],
+  "description": "generate dynamic qr code with logo image inside",
+  "main": "build/angular-qrcode.min.js",
+  "keywords": [
+    "qr-code",
+    "logo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
