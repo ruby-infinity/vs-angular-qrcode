@@ -12,7 +12,11 @@
 bower install vs-angular-qrcode --save-dev
 ```
 
-and remember to include the `build/angular-qrcode.min.js` to your project
+and remember to include the `build/angular-qrcode.min.js` to your project. Then inject the `vs.qrcode` module into your angular app.
+
+```javascript
+angular.module('angular-qrcode-example', ['vs.qrcode']);
+```
 
 ## How to Use
 
