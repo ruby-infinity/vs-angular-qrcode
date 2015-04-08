@@ -1,7 +1,7 @@
 {
-  "name": "angular-qrcode",
+  "name": "vs-angular-qrcode",
   "version": "0.1.0",
-  "homepage": "https://github.com/vs-zhang/angular-qrcode",
+  "homepage": "https://github.com/vs-zhang/vs-angular-qrcode",
   "authors": [
     "vs-zhang <vincentzhang1209@gmail.com>"
   ],
