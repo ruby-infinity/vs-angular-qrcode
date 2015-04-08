@@ -2,6 +2,8 @@
 
 > generate dynamic qr code with logo image inside
 
+![Qr code exaample](https://36.media.tumblr.com/3162acf63afc257281f27068ea8b6fb0/tumblr_nmhxhgfotj1unxngeo1_400.png)
+
 ## Getting Started
 
 1. How ot Install
@@ -41,7 +43,6 @@ and remember to include the `build/angular-qrcode.min.js` to your project
 - size
 - color
 - background
-
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
