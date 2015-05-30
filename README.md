@@ -39,6 +39,7 @@ angular.module('angular-qrcode-example', ['vs.qrcode']);
 	        background="#d3e3f0"
 	></qrcode>
 ```
+
 ### 2. Options
 
 * data
